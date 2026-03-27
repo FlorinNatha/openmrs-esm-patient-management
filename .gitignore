@@ -77,7 +77,6 @@ dist
 ~
 
 # Environment variables
-.env
 
 # Playwright and e2e tests
 /test-results/
@@ -89,10 +88,9 @@ results.xml
 # Translations
 moduleName
 
-.env
 
 # vim
 .swp
 
 # vscode
-.vscode
+config.bat
